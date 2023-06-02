@@ -8,5 +8,7 @@ Day 1
 Day 2   
   -> Create simple Django form that's take some argument perform action it
      and show result on the result page.
-     
+  -> Blogpost Site
+     this is the simple python Django site for blog posting, It's develop
+     with the help of tinymce editor for text editing on admin side.
 ============================================================================
