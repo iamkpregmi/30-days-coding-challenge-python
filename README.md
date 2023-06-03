@@ -14,5 +14,6 @@ Day 2
 ----------------------------------------------------------------------------
 Day 3
   -> Simple python django file that's deal with mysql database.
+  -> CURD(Create Update Read Delete)
 
 ============================================================================
