@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <style>
+        table, th, td {
+                        border: 1px solid black;
+                        border-collapse: collapse;
+                        text-align: center;
+                    }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;">Result Declare! Good Luck👍</h1>
+    <a href="about/">About</a><hr/>
+    <form action="" method="post">
+        {% csrf_token %}
+        Search: 
+        <input type="text" name="name" placeholder="Enter your full name"/>
+        <input type="submit" value="Search"><br/><br/>
+    </form>
+    <table border="1px" width="400em">
+        <tr style="background-color: rgb(21, 133, 231); color: white;">
+            <td>Rollno</td>
+            <td>Name</td>
+            <td>Percentage</td>
+            <td>Result</td>
+        </tr>
+    {% for i in Student_Result %}
+        <tr>
+            <td>{{ i.Rollno }}</td>
+            <td>{{ i.Name }}</td>
+            <td>{{ i.Percentage }}</td>
+            <td>{{ i.Result }}</td>
+        </tr>  
+    {% endfor %}
+    </table>
+</body>
+</html>
