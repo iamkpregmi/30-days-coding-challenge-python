@@ -1,4 +1,4 @@
-# 30-days-coding-challenge-python-Django
+# 30-days-coding-challenge-python-Django Documentation
 ============================================================================
       WELCOME TO THE 30 DAYS OF DJANGO PYTHON CODING CHALLENGE
 ============================================================================
@@ -15,5 +15,10 @@ Day 2
 Day 3
   -> Simple python django file that's deal with mysql database.
   -> CURD(Create Update Read Delete)
+----------------------------------------------------------------------------
+Day 4
+   -> Student result site with the help of python django and mysql as a
+      backend technology. Integrate Search option( With the help of search
+      option student can easily search their result using student name).
 
 ============================================================================
