@@ -26,6 +26,7 @@ Day 5
        student Roll number.
 ----------------------------------------------------------------------------
 Day 7
-    -> 
+    -> Simple login file with dashboard integrated & also deal with static
+       files. Use CSS for design.
 
 ============================================================================
