@@ -28,5 +28,7 @@ Day 5
 Day 7
     -> Simple login file with dashboard integrated & also deal with static
        files. Use CSS for design.
-
+----------------------------------------------------------------------------
+Day 8
+    -> 
 ============================================================================
