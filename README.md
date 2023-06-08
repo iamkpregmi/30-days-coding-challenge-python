@@ -25,10 +25,13 @@ Day 5
     -> Student Grade Card System. Show student grade card with the help of 
        student Roll number.
 ----------------------------------------------------------------------------
-Day 7
+Day 6
     -> Simple login file with dashboard integrated & also deal with static
        files. Use CSS for design.
 ----------------------------------------------------------------------------
-Day 8
+Day 7
     -> Practice python core questions.
+----------------------------------------------------------------------------
+Day 8
+    -> 
 ============================================================================
