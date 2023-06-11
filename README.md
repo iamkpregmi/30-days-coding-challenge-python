@@ -40,5 +40,8 @@ Day 9
 ----------------------------------------------------------------------------
 Day 10
     -> Learn authentication and authentication in django.
-    -> work on login, logout page.
+----------------------------------------------------------------------------
+Day 11
+    -> Practice authentication and authentication in django.
+    -> Read interview questions.
 ============================================================================
