@@ -44,4 +44,6 @@ Day 10
 Day 11
     -> Practice authentication and authentication in django.
     -> Read interview questions.
+----------------------------------------------------------------------------
+Day 12    
 ============================================================================
