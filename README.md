@@ -47,4 +47,6 @@ Day 11
 ----------------------------------------------------------------------------
 Day 12    
     -> Work on Inline, Internal and External CSS files.
+    -> Work on User Register page in django, User can register with the help
+       of HTML form and data can be shown in Admin Site.
 ============================================================================
