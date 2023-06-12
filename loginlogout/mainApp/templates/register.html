@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Register</title>
+</head>
+<body>
+    <a href="/">Home</a>
+    <h1 style="text-align: center;">User Register Form</h1>
+    <hr>
+    <form method="post">
+        {% csrf_token %}
+        Username:
+        <input type="text" name="username"/><br/><br/>
+        Password:
+        <input type="password" name="password"/><br/><br/>
+        Confirm Password: 
+        <input type="password" name="cpassword"/><br/><br/>
+        Name: 
+        <input type="text" name="name"/><br/><br/>
+        Phone No: 
+        <input type="tel" name="phoneno"/><br/><br/>
+        Date of Birth: 
+        <input type="date" name="dob"/><br/><br/>
+        Gender: 
+        <select name="gender">
+            <option name="Male" value="Male">Male</option>
+            <option name="Female" value="Female">Female</option>
+            <option name="Other" value="Other">Other</option>
+        </select><br/><br/>
+        <input type="submit" value="Register"/>&nbsp;&nbsp;
+        <input type="reset" value="Clear Form"/>
+    </form>
+</body>
+</html>
