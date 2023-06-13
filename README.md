@@ -51,5 +51,6 @@ Day 12
        of HTML form and data can be shown in Admin Site.
 ----------------------------------------------------------------------------
 Day 13
-    -> 
+    -> Django Deployment.
+    -> Read interview questions.
 ============================================================================
