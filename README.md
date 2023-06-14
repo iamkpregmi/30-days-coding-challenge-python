@@ -56,5 +56,6 @@ Day 13
 ----------------------------------------------------------------------------
 Day 14
     -> Practice python core questions.
+    -> Learn and Practice Python Exception Handling.
     -> Learn about GitHub.
 ============================================================================
