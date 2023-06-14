@@ -53,4 +53,8 @@ Day 12
 Day 13
     -> Django Deployment.
     -> Read interview questions.
+----------------------------------------------------------------------------
+Day 14
+    -> Practice python core questions.
+    -> Learn about GitHub.
 ============================================================================
