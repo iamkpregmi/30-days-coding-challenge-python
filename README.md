@@ -72,4 +72,7 @@ Day 17
 Day 18
     -> Practice python interview questions.
     -> List, Tuple, Set etc.
+----------------------------------------------------------------------------
+Day 19
+    -> Practice python core questions.       
 ============================================================================
