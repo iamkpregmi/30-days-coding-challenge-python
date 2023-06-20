@@ -74,5 +74,9 @@ Day 18
     -> List, Tuple, Set etc.
 ----------------------------------------------------------------------------
 Day 19
-    -> Practice python core questions.       
+    -> Practice python core questions.    
+----------------------------------------------------------------------------
+Day 20
+    -> Practice OOPS concepts.
+    -> Class, Objects, Inheritance etc.
 ============================================================================
