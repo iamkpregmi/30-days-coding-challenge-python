@@ -80,4 +80,7 @@ Day 20
     -> Practice OOPS concepts.
     -> Class, Objects, Inheritance etc.
     -> https://readme.so/editor
+----------------------------------------------------------------------------
+Day 20
+    -> Practice Pattern questions.    
 ============================================================================
