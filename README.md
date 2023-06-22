@@ -81,5 +81,9 @@ Day 20
     -> Class, Objects, Inheritance etc.
 ----------------------------------------------------------------------------
 Day 21
-    -> Practice Pattern questions.    
+    -> Practice Pattern questions.  
+----------------------------------------------------------------------------
+Day 21
+    -> Practice logical questions.
+    -> looping in python.
 ============================================================================
