@@ -87,7 +87,11 @@ Day 22
     -> Practice logical questions.
     -> looping in python.
 ----------------------------------------------------------------------------
-Day 23
-    -> Practice Python core questions.
+Day 22
+    -> Practice logical questions.
+    -> looping in python.    
+----------------------------------------------------------------------------
+Day 24
+    -> 
     -> Read interview questions.    
 ============================================================================
