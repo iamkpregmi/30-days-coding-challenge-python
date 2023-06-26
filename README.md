@@ -97,4 +97,7 @@ Day 24
 Day 25
     -> Practice Cookies and Session questions.
     -> Practice python core questions.
+----------------------------------------------------------------------------
+Day 26
+    -> Practice python core questions.      
 ============================================================================
