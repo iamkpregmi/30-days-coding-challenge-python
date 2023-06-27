@@ -103,5 +103,6 @@ Day 26
 ----------------------------------------------------------------------------
 Day 27
     -> priacice Git commands.
-    -> Practice python core questions.  
+    -> Practice python core question
+    -> Practice Advance Pattern questions.
 ============================================================================
