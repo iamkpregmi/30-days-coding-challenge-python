@@ -99,5 +99,9 @@ Day 25
     -> Practice python core questions.
 ----------------------------------------------------------------------------
 Day 26
-    -> Practice python core questions.      
+    -> Practice python core questions.     
+----------------------------------------------------------------------------
+Day 27
+    -> priacice Git commands.
+    -> Practice python core questions.  
 ============================================================================
