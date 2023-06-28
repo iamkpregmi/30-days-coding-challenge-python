@@ -105,4 +105,7 @@ Day 27
     -> priacice Git commands.
     -> Practice python core question
     -> Practice Advance Pattern questions.
+----------------------------------------------------------------------------
+Day 28
+    -> priacice Git commands.    
 ============================================================================
