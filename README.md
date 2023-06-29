@@ -109,4 +109,7 @@ Day 27
 Day 28
     -> priacice Git commands.    
     -> Practice logical questions.
+----------------------------------------------------------------------------
+Day 29
+    -> Practice python Core & django questions.       
 ============================================================================
