@@ -113,7 +113,7 @@ Day 28
 Day 29
     -> Practice python Core & django questions.   
 ----------------------------------------------------------------------------
-Day 29
+Day 30
     -> Practice python Core questions.
     -> Revision all important python django concepts.
     -> Read Python Django interview Quesitons.
