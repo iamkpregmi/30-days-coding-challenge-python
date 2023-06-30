@@ -117,4 +117,5 @@ Day 29
     -> Practice python Core questions.
     -> Revision all important python django concepts.
     -> Read Python Django interview Quesitons.
+python 30 days coding challenge done✌️
 ============================================================================
